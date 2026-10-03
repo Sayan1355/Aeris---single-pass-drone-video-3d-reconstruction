@@ -120,8 +120,8 @@ The resulting outputs are designed for visualization, measurement, GIS analysis,
              │              AERIS WEB CONSOLE                 │
              │                                                │
              │ React + TypeScript                             │
-             │ Three.js / React Three Fiber                    │
-             │ CesiumJS / Resium                               │
+             │ Three.js / React Three Fiber                   │
+             │ CesiumJS / Resium                              │
              │                                                │
              │ Mission Management                             │
              │ Reconstruction                                 │
