@@ -18,6 +18,7 @@ carefully planned flight paths
 extensive Ground Control Points
 significant post-processing
 
+
 AERIS addresses the single-pass reconstruction problem by combining geometric estimation, neural depth priors, dynamic-object masking, Gaussian reconstruction, surface meshing, and georeferencing.
 
 The system is designed around a hybrid:
