@@ -6,7 +6,7 @@ AERIS is an AI-enabled UAV reconstruction and geospatial intelligence platform d
 
 The platform is designed for scenarios where repeated drone passes, extensive image overlap, or traditional photogrammetric flight planning are impractical — including rapid mapping, infrastructure inspection, disaster assessment, strategic-area mapping, construction monitoring, and digital-twin generation.
 
-✨ Overview
+✨ Overview 
 
 Traditional 3D reconstruction often depends on:
 
