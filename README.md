@@ -10,7 +10,7 @@ The platform is designed for scenarios where repeated drone passes, extensive im
 
 Traditional 3D reconstruction often depends on:
 
-multiple drone passes
+multiple drone passes   
 high image overlap
 cross-track camera baselines
 carefully planned flight paths
